@@ -1,0 +1,7 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="wolfshead_green" filename="wolfpack-logo-watch-green.png" />
+    <bitmap id="wolfshead_white" filename="wolfpack-logo-watch-white.png" />    
+    <bitmap id="wolfshead_orange" filename="wolfpack-logo-watch-orange.png" />
+    <bitmap id="wolfshead_red" filename="wolfpack-logo-watch-red.png" />
+</drawables>

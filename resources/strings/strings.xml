@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">WolfPack</string>
+    <string id="Session1Message">Session1 Message</string>
+    <string id="Session1DayTime">Session1 Day,Hour</string>    
+    <string id="Session2Message">Session2 Message</string>
+    <string id="Session2DayTime">Session2 Day,Hour</string>    
+    <string id="Session3Message">Session3 Message</string>
+    <string id="Session3DayTime">Session3 Day,Hour</string>
+    <string id="Session4Message">Session3 Message</string>
+    <string id="Session4DayTime">Session3 Day,Hour</string>                  
+                      
+</strings>

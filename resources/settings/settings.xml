@@ -1,0 +1,27 @@
+<settings>
+    <setting propertyKey="@Properties.Session1DayTime" title="@Strings.Session1DayTime">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.Session1Message" title="@Strings.Session1Message">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.Session2DayTime" title="@Strings.Session2DayTime">
+        <settingConfig type="alphaNumeric" />
+    </setting>    
+    <setting propertyKey="@Properties.Session2Message" title="@Strings.Session2Message">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.Session3DayTime" title="@Strings.Session3DayTime">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.Session3Message" title="@Strings.Session3Message">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.Session4DayTime" title="@Strings.Session4DayTime">
+        <settingConfig type="alphaNumeric" />
+    </setting>    
+    <setting propertyKey="@Properties.Session4Message" title="@Strings.Session4Message">
+        <settingConfig type="alphaNumeric" />
+    </setting>    
+
+</settings>

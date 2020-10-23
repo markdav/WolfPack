@@ -1,0 +1,13 @@
+<properties>
+    <property id="Session1DayTime" type="string">Tue;20</property>
+    <property id="Session1Message" type="string">Pack run at 7:45!</property>
+    
+    <property id="Session2DayTime" type="string">Thur;20</property>    
+    <property id="Session2Message" type="string">Pack run at 7:45!</property>
+    
+    <property id="Session3DayTime" type="string">Fri;18</property>     
+    <property id="Session3Message" type="string">Pack run at 5:15!</property>
+    
+    <property id="Session4DayTime" type="string">Sun;9</property>     
+    <property id="Session4Message" type="string">Long Run!</property>
+</properties>
