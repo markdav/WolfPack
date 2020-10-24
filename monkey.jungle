@@ -1,14 +1,17 @@
 project.manifest = manifest.xml
 
+base.sourcePath=$(fr230.sourcePath)
+
 # 235-style watches
-fr230.sourcePath = $(fr230.sourcePath);source-fr235  
-fr235.sourcePath = $(fr235.sourcePath);source-fr235
-fr735xt.sourcePath = $(fr735xt.sourcePath);source-fr235
+fr230.sourcePath = source;source-fr235  
+fr235.sourcePath = source;source-fr235
+fr735xt.sourcePath = source;source-fr235
 
 # 245-style watches
-fr245.sourcePath = $(fr245.sourcePath);source-fr245
-fr245m.sourcePath = $(fr245m.sourcePath);source-fr245
-fr645.sourcePath = $(fr645.sourcePath);source-fr245
-fr645m.sourcePath = $(fr645m.sourcePath);source-fr245
+fr245.sourcePath = source;source-fr245
+fr245m.sourcePath = source;source-fr245
+fr645.sourcePath = source;source-fr245
+fr645m.sourcePath = source;source-fr245
 
 # fr920xt-style watches
+fr920xt.sourcePath = source;source-fr920xt

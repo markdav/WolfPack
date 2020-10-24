@@ -16,7 +16,7 @@ class WolfPackApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new WolfPackView() ];
+        return [ new DeviceView() ];
     }
 
 }

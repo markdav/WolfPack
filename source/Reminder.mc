@@ -5,14 +5,12 @@ class Reminder {
   var day;
   var hour;
   var message;
-  var colour;
   var hoursBeforeReminder;
   
-  public function initialize( day, hour, message, colour, hoursBeforeReminder) {
+  public function initialize( day, hour, message, hoursBeforeReminder) {
 	me.day = day;
 	me.hour = hour;
 	me.message = message;
-	me.colour = colour;
 	me.hoursBeforeReminder=hoursBeforeReminder;
   }
     

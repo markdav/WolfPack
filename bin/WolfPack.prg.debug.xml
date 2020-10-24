@@ -25,173 +25,187 @@
         <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\DateDisplay.mc" id="6" lineNum="7" pc="268436005" symbol="drawDate"/>
         <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\DateDisplay.mc" id="6" lineNum="8" pc="268436065" symbol="drawDate"/>
         <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\DateDisplay.mc" id="6" lineNum="9" pc="268436101" symbol="drawDate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="7" pc="268436134" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="8" pc="268436146" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="9" pc="268436163" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="13" pc="268436189" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="14" pc="268436379" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="15" pc="268436581" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="16" pc="268436843" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="8" lineNum="17" pc="268437045" symbol="drawIcon"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="9" lineNum="20" pc="268437236" symbol="isConnected"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="9" lineNum="21" pc="268437248" symbol="isConnected"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="11" lineNum="5" pc="268437271" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="11" lineNum="6" pc="268437275" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="12" lineNum="10" pc="268437294" symbol="onStart"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="13" lineNum="14" pc="268437299" symbol="onStop"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="14" lineNum="18" pc="268437304" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="14" lineNum="19" pc="268437308" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="16" lineNum="18" pc="268437346" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="16" lineNum="19" pc="268437350" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="17" lineNum="23" pc="268437369" symbol="onLayout"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="17" lineNum="25" pc="268437373" symbol="onLayout"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="17" lineNum="26" pc="268437398" symbol="onLayout"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="17" lineNum="28" pc="268437423" symbol="onLayout"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="17" lineNum="31" pc="268437461" symbol="onLayout"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="34" pc="268437474" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="35" pc="268437478" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="36" pc="268437499" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="38" pc="268437541" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="39" pc="268437561" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="40" pc="268437595" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="41" pc="268437650" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="42" pc="268437692" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="18" lineNum="43" pc="268437706" symbol="setupReminders"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="19" lineNum="51" pc="268437779" symbol="onShow"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="55" pc="268437784" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="68" pc="268437788" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="69" pc="268437795" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="70" pc="268437802" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="71" pc="268437809" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="72" pc="268437823" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="73" pc="268437837" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="76" pc="268437865" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="77" pc="268437901" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="80" pc="268437913" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="83" pc="268437935" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="84" pc="268437955" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="88" pc="268438019" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="91" pc="268438061" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="92" pc="268438105" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="95" pc="268438148" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="96" pc="268438178" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="97" pc="268438191" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="98" pc="268438207" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="20" lineNum="99" pc="268438239" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="21" lineNum="110" pc="268438353" symbol="onHide"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="22" lineNum="114" pc="268438358" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="23" lineNum="118" pc="268438363" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackView.mc" id="23" lineNum="16" pc="268438989" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="11" pc="268438368" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="12" pc="268438372" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="13" pc="268438382" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="14" pc="268438392" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="15" pc="268438402" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="25" lineNum="16" pc="268438412" symbol="initialize"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="26" lineNum="19" pc="268438423" symbol="isFiring"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="26" lineNum="20" pc="268438427" symbol="isFiring"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="5" pc="268438509" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="6" pc="268438521" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="7" pc="268438538" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="8" pc="268438562" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="10" pc="268438586" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="12" pc="268438622" symbol="drawTime"/>
-        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="28" lineNum="13" pc="268438673" symbol="drawTime"/>
-        <entry filename="Rez" id="34" lineNum="19" pc="268438725" symbol="WatchFace"/>
-        <entry filename="Rez" id="34" lineNum="22" pc="268438737" symbol="WatchFace"/>
-        <entry filename="Rez" id="34" lineNum="24" pc="268438918" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="8" lineNum="10" pc="268436134" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="8" lineNum="11" pc="268436138" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="9" lineNum="15" pc="268436157" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="9" lineNum="16" pc="268436161" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="9" lineNum="17" pc="268436191" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="10" lineNum="24" pc="268436212" symbol="onShow"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="28" pc="268436217" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="30" pc="268436221" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="31" pc="268436228" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="32" pc="268436235" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="34" pc="268436249" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="36" pc="268436256" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="37" pc="268436270" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="39" pc="268436277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="40" pc="268436291" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="11" lineNum="42" pc="268436298" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="12" lineNum="49" pc="268436335" symbol="onHide"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="13" lineNum="53" pc="268436340" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source-fr920xt\\Forerunner920xt.mc" id="14" lineNum="57" pc="268436345" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="16" lineNum="16" pc="268436350" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="17" lineNum="21" pc="268436355" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="17" lineNum="23" pc="268436359" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="17" lineNum="24" pc="268436384" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="17" lineNum="26" pc="268436409" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="17" lineNum="27" pc="268436447" symbol="onLayout"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="32" pc="268436478" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="34" pc="268436482" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="35" pc="268436518" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="38" pc="268436530" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="41" pc="268436552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="42" pc="268436572" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="46" pc="268436627" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="49" pc="268436661" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="50" pc="268436705" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\CommonLogic.mc" id="18" lineNum="53" pc="268436739" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="20" lineNum="10" pc="268436786" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="20" lineNum="11" pc="268436790" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="14" pc="268436803" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="15" pc="268436807" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="16" pc="268436828" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="18" pc="268436870" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="19" pc="268436890" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="20" pc="268436924" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="21" pc="268436979" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="21" lineNum="22" pc="268437021" symbol="setupReminders"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="27" pc="268437092" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="28" pc="268437096" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="29" pc="268437126" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="30" pc="268437139" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="31" pc="268437155" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="32" pc="268437181" symbol="drawReminder"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\ReminderDisplay.mc" id="22" lineNum="8" pc="268439085" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="7" pc="268437249" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="8" pc="268437261" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="9" pc="268437278" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="13" pc="268437304" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="14" pc="268437494" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="15" pc="268437696" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="16" pc="268437958" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="24" lineNum="17" pc="268438160" symbol="drawIcon"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="25" lineNum="20" pc="268438351" symbol="isConnected"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\PhoneConnected.mc" id="25" lineNum="21" pc="268438363" symbol="isConnected"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="27" lineNum="5" pc="268438386" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="27" lineNum="6" pc="268438390" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="28" lineNum="10" pc="268438409" symbol="onStart"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="29" lineNum="14" pc="268438414" symbol="onStop"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="30" lineNum="18" pc="268438419" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\WolfPackApp.mc" id="30" lineNum="19" pc="268438423" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="32" lineNum="10" pc="268438461" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="32" lineNum="11" pc="268438465" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="32" lineNum="12" pc="268438475" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="32" lineNum="13" pc="268438485" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="32" lineNum="14" pc="268438495" symbol="initialize"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="33" lineNum="17" pc="268438506" symbol="isFiring"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\Reminder.mc" id="33" lineNum="18" pc="268438510" symbol="isFiring"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="5" pc="268438592" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="6" pc="268438604" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="7" pc="268438621" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="8" pc="268438645" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="10" pc="268438669" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="12" pc="268438705" symbol="drawTime"/>
+        <entry filename="C:\\Users\\markdav\\eclipse-workspace-new\\WolfPack\\source\\TimeDisplay.mc" id="35" lineNum="13" pc="268438753" symbol="drawTime"/>
+        <entry filename="Rez" id="41" lineNum="19" pc="268438802" symbol="WatchFace"/>
+        <entry filename="Rez" id="41" lineNum="21" pc="268438814" symbol="WatchFace"/>
+        <entry filename="Rez" id="41" lineNum="23" pc="268438977" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="16" object="true" symbol="WolfPackView"/>
-        <entry field="true" id="35" symbol="wolfshead_orange"/>
-        <entry field="true" id="48" symbol="greenBitmap"/>
-        <entry id="22" method="true" symbol="isFiring"/>
-        <entry field="true" id="43" symbol="Session1DayTime"/>
-        <entry id="15" object="true" symbol="WolfPackApp"/>
+        <entry field="true" id="34" symbol="wolfshead_orange"/>
+        <entry field="true" id="53" symbol="greenBitmap"/>
+        <entry id="24" method="true" symbol="isFiring"/>
+        <entry field="true" id="42" symbol="Session1DayTime"/>
+        <entry id="18" object="true" symbol="WolfPackApp"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry id="56" method="true" symbol="drawDate"/>
-        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
-        <entry field="true" id="39" symbol="Session3Message"/>
-        <entry field="true" id="29" symbol="reminderArray"/>
-        <entry id="30" method="true" symbol="setupReminders"/>
-        <entry field="true" id="52" symbol="greenX"/>
-        <entry field="true" id="34" symbol="wolfshead_white"/>
+        <entry id="52" method="true" symbol="drawDate"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="38" symbol="Session3Message"/>
+        <entry field="true" id="27" symbol="reminderArray"/>
+        <entry id="28" method="true" symbol="setupReminders"/>
+        <entry field="true" id="57" symbol="greenX"/>
+        <entry id="29" method="true" symbol="drawReminder"/>
+        <entry field="true" id="33" symbol="wolfshead_white"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="28" symbol="HOURS_BEFORE_REMINDER"/>
-        <entry id="18" module="true" symbol="TimeDisplay"/>
-        <entry id="47" method="true" symbol="drawTime"/>
-        <entry field="true" id="46" symbol="AppName"/>
-        <entry id="17" object="true" symbol="Reminder"/>
-        <entry field="true" id="42" symbol="Session1Message"/>
-        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="26" symbol="HOURS_BEFORE_REMINDER"/>
+        <entry id="20" module="true" symbol="TimeDisplay"/>
+        <entry id="46" method="true" symbol="drawTime"/>
+        <entry field="true" id="45" symbol="AppName"/>
+        <entry id="19" object="true" symbol="Reminder"/>
+        <entry field="true" id="41" symbol="Session1Message"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry field="true" id="36" symbol="wolfshead_red"/>
-        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="35" symbol="wolfshead_red"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="12" object="true" symbol="WolfHead"/>
-        <entry field="true" id="44" symbol="Session4DayTime"/>
+        <entry field="true" id="43" symbol="Session4DayTime"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="32" module="true" symbol="Menus"/>
-        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
-        <entry field="true" id="20" symbol="colour"/>
+        <entry id="31" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry id="14" module="true" symbol="PhoneConnected"/>
+        <entry id="17" module="true" symbol="PhoneConnected"/>
         <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="14" object="true" symbol="DeviceView"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="26" symbol="cy"/>
-        <entry field="true" id="25" symbol="cx"/>
-        <entry field="true" id="54" symbol="orangeX"/>
-        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
-        <entry id="23" method="true" symbol="drawIcon"/>
-        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="45" symbol="Session2DayTime"/>
-        <entry id="2" module="true" symbol="globals/PhoneConnected"/>
-        <entry field="true" id="38" symbol="Session2Message"/>
+        <entry field="true" id="50" symbol="cy"/>
+        <entry field="true" id="49" symbol="cx"/>
+        <entry field="true" id="59" symbol="orangeX"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="51" symbol="reminderDisplay"/>
+        <entry id="47" method="true" symbol="drawIcon"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="44" symbol="Session2DayTime"/>
+        <entry id="10" module="true" symbol="globals/PhoneConnected"/>
+        <entry field="true" id="37" symbol="Session2Message"/>
         <entry id="8391244" method="true" symbol="isConnected"/>
-        <entry field="true" id="40" symbol="Session4Message"/>
+        <entry field="true" id="39" symbol="Session4Message"/>
         <entry id="13" module="true" symbol="DateDisplay"/>
-        <entry field="true" id="53" symbol="whiteX"/>
+        <entry field="true" id="58" symbol="whiteX"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="49" symbol="whiteBitmap"/>
+        <entry field="true" id="54" symbol="whiteBitmap"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry field="true" id="8388720" symbol="hour"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="19" symbol="message"/>
+        <entry field="true" id="22" symbol="message"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="37" symbol="LauncherIcon"/>
+        <entry field="true" id="36" symbol="LauncherIcon"/>
+        <entry id="15" object="true" symbol="CommonLogic"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="27" symbol="MAX_NUM_REMINDERS"/>
+        <entry field="true" id="25" symbol="MAX_NUM_REMINDERS"/>
         <entry id="8389350" module="true" symbol="globals"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="10" module="true" symbol="globals/TimeDisplay"/>
+        <entry id="9" module="true" symbol="globals/TimeDisplay"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="50" symbol="orangeBitmap"/>
+        <entry field="true" id="55" symbol="orangeBitmap"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="33" symbol="wolfshead_green"/>
-        <entry field="true" id="55" symbol="redX"/>
+        <entry field="true" id="32" symbol="wolfshead_green"/>
+        <entry field="true" id="60" symbol="redX"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="41" symbol="Session3DayTime"/>
+        <entry field="true" id="40" symbol="Session3DayTime"/>
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="8388939" symbol="day"/>
-        <entry field="true" id="21" symbol="hoursBeforeReminder"/>
-        <entry id="31" module="true" symbol="Layouts"/>
+        <entry field="true" id="23" symbol="hoursBeforeReminder"/>
+        <entry field="true" id="21" symbol="commonLogic"/>
+        <entry id="30" module="true" symbol="Layouts"/>
         <entry id="11" module="true" symbol="globals/DateDisplay"/>
-        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
-        <entry field="true" id="51" symbol="redBitmap"/>
+        <entry id="16" object="true" symbol="ReminderDisplay"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="56" symbol="redBitmap"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="24" symbol="wolf"/>
+        <entry field="true" id="48" symbol="wolf"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
@@ -205,66 +219,83 @@
         <entry arg="true" endPc="268436134" name="font" stackId="3" startPc="268435993"/>
         <entry arg="true" endPc="268436134" name="date" stackId="2" startPc="268435993"/>
         <entry arg="true" endPc="268436134" name="y" stackId="5" startPc="268435993"/>
-        <entry arg="true" endPc="268437236" name="x" stackId="2" startPc="268436134"/>
-        <entry arg="true" endPc="268437236" name="dc" stackId="1" startPc="268436134"/>
-        <entry arg="true" endPc="268437236" name="color" stackId="4" startPc="268436134"/>
-        <entry arg="true" endPc="268437236" name="size" stackId="5" startPc="268436134"/>
-        <entry arg="true" endPc="268437236" name="width" stackId="6" startPc="268436134"/>
-        <entry arg="true" endPc="268437236" name="y" stackId="3" startPc="268436134"/>
-        <entry arg="true" endPc="268437299" name="state" stackId="1" startPc="268437294"/>
-        <entry arg="true" endPc="268437304" name="state" stackId="1" startPc="268437299"/>
-        <entry arg="true" endPc="268437474" name="dc" stackId="1" startPc="268437369"/>
-        <entry endPc="268437762" name="hour" stackId="4" startPc="268437561"/>
-        <entry endPc="268437762" name="day" stackId="3" startPc="268437561"/>
-        <entry endPc="268437762" name="message" stackId="5" startPc="268437561"/>
-        <entry endPc="268437762" name="colour" stackId="6" startPc="268437561"/>
-        <entry endPc="268437765" name="dayTime" stackId="2" startPc="268437499"/>
-        <entry endPc="268437778" name="i" stackId="1" startPc="268437499"/>
-        <entry endPc="268438339" name="rem" stackId="10" startPc="268438178"/>
-        <entry endPc="268438352" name="i" stackId="9" startPc="268438178"/>
-        <entry endPc="268438352" name="dateFont" stackId="6" startPc="268437788"/>
-        <entry endPc="268438352" name="date" stackId="8" startPc="268437788"/>
-        <entry endPc="268438352" name="timeFont" stackId="5" startPc="268437788"/>
-        <entry endPc="268438352" name="xTimePad" stackId="3" startPc="268437788"/>
-        <entry endPc="268438352" name="yTimePad" stackId="2" startPc="268437788"/>
-        <entry endPc="268438352" name="yWolfFromTop" stackId="4" startPc="268437788"/>
-        <entry endPc="268438352" name="yDatePad" stackId="7" startPc="268437788"/>
-        <entry arg="true" endPc="268438353" name="dc" stackId="1" startPc="268437784"/>
-        <entry arg="true" endPc="268438423" name="hour" stackId="2" startPc="268438368"/>
-        <entry arg="true" endPc="268438423" name="day" stackId="1" startPc="268438368"/>
-        <entry arg="true" endPc="268438423" name="message" stackId="3" startPc="268438368"/>
-        <entry arg="true" endPc="268438423" name="hoursBeforeReminder" stackId="5" startPc="268438368"/>
-        <entry arg="true" endPc="268438423" name="colour" stackId="4" startPc="268438368"/>
-        <entry arg="true" endPc="268438509" name="date" stackId="1" startPc="268438423"/>
-        <entry endPc="268438724" name="minString" stackId="9" startPc="268438521"/>
-        <entry endPc="268438724" name="hourString" stackId="8" startPc="268438521"/>
-        <entry endPc="268438724" name="clockTime" stackId="7" startPc="268438521"/>
-        <entry arg="true" endPc="268438725" name="cx" stackId="2" startPc="268438509"/>
-        <entry arg="true" endPc="268438725" name="dc" stackId="1" startPc="268438509"/>
-        <entry arg="true" endPc="268438725" name="font" stackId="4" startPc="268438509"/>
-        <entry arg="true" endPc="268438725" name="yPad" stackId="6" startPc="268438509"/>
-        <entry arg="true" endPc="268438725" name="xPad" stackId="5" startPc="268438509"/>
-        <entry arg="true" endPc="268438725" name="cy" stackId="3" startPc="268438509"/>
-        <entry endPc="268438935" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268438737"/>
-        <entry arg="true" endPc="268438936" name="dc" stackId="1" startPc="268438725"/>
+        <entry arg="true" endPc="268436212" name="dc" stackId="1" startPc="268436157"/>
+        <entry endPc="268436334" name="dateY" stackId="7" startPc="268436221"/>
+        <entry endPc="268436334" name="dateFont" stackId="6" startPc="268436221"/>
+        <entry endPc="268436334" name="timeY" stackId="3" startPc="268436221"/>
+        <entry endPc="268436334" name="timeSpacing" stackId="2" startPc="268436221"/>
+        <entry endPc="268436334" name="timeFont" stackId="4" startPc="268436221"/>
+        <entry endPc="268436334" name="reminderY" stackId="9" startPc="268436221"/>
+        <entry endPc="268436334" name="reminderFont" stackId="8" startPc="268436221"/>
+        <entry endPc="268436334" name="wolfY" stackId="5" startPc="268436221"/>
+        <entry arg="true" endPc="268436335" name="dc" stackId="1" startPc="268436217"/>
+        <entry arg="true" endPc="268436478" name="dc" stackId="1" startPc="268436355"/>
+        <entry endPc="268436785" name="date" stackId="10" startPc="268436482"/>
+        <entry arg="true" endPc="268436786" name="timeSpacing" stackId="2" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="timeY" stackId="3" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="dateY" stackId="7" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="reminderY" stackId="9" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="timeFont" stackId="4" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="reminderFont" stackId="8" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="wolfY" stackId="5" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="dc" stackId="1" startPc="268436478"/>
+        <entry arg="true" endPc="268436786" name="dateFont" stackId="6" startPc="268436478"/>
+        <entry endPc="268437075" name="hour" stackId="4" startPc="268436890"/>
+        <entry endPc="268437075" name="day" stackId="3" startPc="268436890"/>
+        <entry endPc="268437075" name="message" stackId="5" startPc="268436890"/>
+        <entry endPc="268437078" name="dayTime" stackId="2" startPc="268436828"/>
+        <entry endPc="268437091" name="i" stackId="1" startPc="268436828"/>
+        <entry endPc="268437235" name="rem" stackId="8" startPc="268437126"/>
+        <entry endPc="268437248" name="i" stackId="7" startPc="268437126"/>
+        <entry arg="true" endPc="268437249" name="x" stackId="3" startPc="268437092"/>
+        <entry arg="true" endPc="268437249" name="dc" stackId="1" startPc="268437092"/>
+        <entry arg="true" endPc="268437249" name="color" stackId="6" startPc="268437092"/>
+        <entry arg="true" endPc="268437249" name="font" stackId="5" startPc="268437092"/>
+        <entry arg="true" endPc="268437249" name="date" stackId="2" startPc="268437092"/>
+        <entry arg="true" endPc="268437249" name="y" stackId="4" startPc="268437092"/>
+        <entry arg="true" endPc="268438351" name="x" stackId="2" startPc="268437249"/>
+        <entry arg="true" endPc="268438351" name="dc" stackId="1" startPc="268437249"/>
+        <entry arg="true" endPc="268438351" name="color" stackId="4" startPc="268437249"/>
+        <entry arg="true" endPc="268438351" name="size" stackId="5" startPc="268437249"/>
+        <entry arg="true" endPc="268438351" name="width" stackId="6" startPc="268437249"/>
+        <entry arg="true" endPc="268438351" name="y" stackId="3" startPc="268437249"/>
+        <entry arg="true" endPc="268438414" name="state" stackId="1" startPc="268438409"/>
+        <entry arg="true" endPc="268438419" name="state" stackId="1" startPc="268438414"/>
+        <entry arg="true" endPc="268438506" name="hour" stackId="2" startPc="268438461"/>
+        <entry arg="true" endPc="268438506" name="day" stackId="1" startPc="268438461"/>
+        <entry arg="true" endPc="268438506" name="message" stackId="3" startPc="268438461"/>
+        <entry arg="true" endPc="268438506" name="hoursBeforeReminder" stackId="4" startPc="268438461"/>
+        <entry arg="true" endPc="268438592" name="date" stackId="1" startPc="268438506"/>
+        <entry endPc="268438801" name="minString" stackId="8" startPc="268438604"/>
+        <entry endPc="268438801" name="hourString" stackId="7" startPc="268438604"/>
+        <entry endPc="268438801" name="clockTime" stackId="6" startPc="268438604"/>
+        <entry arg="true" endPc="268438802" name="x" stackId="2" startPc="268438592"/>
+        <entry arg="true" endPc="268438802" name="dc" stackId="1" startPc="268438592"/>
+        <entry arg="true" endPc="268438802" name="font" stackId="4" startPc="268438592"/>
+        <entry arg="true" endPc="268438802" name="xPad" stackId="5" startPc="268438592"/>
+        <entry arg="true" endPc="268438802" name="y" stackId="3" startPc="268438592"/>
+        <entry endPc="268438994" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268438814"/>
+        <entry arg="true" endPc="268438995" name="dc" stackId="1" startPc="268438802"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="111" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="214" parentId="globals" symbolId="Reminder" type="class"/>
-        <dataEntry offset="309" parentId="globals" symbolId="PhoneConnected" type="module"/>
-        <dataEntry offset="356" parentId="globals" symbolId="WolfPackView" type="class"/>
-        <dataEntry offset="507" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="586" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="657" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="688" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="719" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="758" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="789" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="892" parentId="globals" symbolId="TimeDisplay" type="module"/>
-        <dataEntry offset="931" parentId="globals" symbolId="WolfPackApp" type="class"/>
-        <dataEntry offset="1002" parentId="globals" symbolId="WolfHead" type="class"/>
-        <dataEntry offset="1121" parentId="globals" symbolId="DateDisplay" type="module"/>
+        <dataEntry offset="230" parentId="globals" symbolId="DeviceView" type="class"/>
+        <dataEntry offset="333" parentId="globals" symbolId="WolfPackApp" type="class"/>
+        <dataEntry offset="404" parentId="globals" symbolId="Reminder" type="class"/>
+        <dataEntry offset="491" parentId="globals" symbolId="ReminderDisplay" type="class"/>
+        <dataEntry offset="578" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="657" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="728" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="759" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="790" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="829" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="860" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="963" parentId="globals" symbolId="TimeDisplay" type="module"/>
+        <dataEntry offset="1002" parentId="globals" symbolId="PhoneConnected" type="module"/>
+        <dataEntry offset="1049" parentId="globals" symbolId="CommonLogic" type="class"/>
+        <dataEntry offset="1144" parentId="globals" symbolId="DateDisplay" type="module"/>
+        <dataEntry offset="1183" parentId="globals" symbolId="WolfHead" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="WolfHead">
@@ -282,6 +313,63 @@
             <param id="font"/>
             <param id="x"/>
             <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DeviceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DeviceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="DeviceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DeviceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="DeviceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="DeviceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="DeviceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CommonLogic">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CommonLogic">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CommonLogic">
+            <param id="dc"/>
+            <param id="timeSpacing"/>
+            <param id="timeY"/>
+            <param id="timeFont"/>
+            <param id="wolfY"/>
+            <param id="dateFont"/>
+            <param id="dateY"/>
+            <param id="reminderFont"/>
+            <param id="reminderY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ReminderDisplay">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setupReminders" parent="ReminderDisplay">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawReminder" parent="ReminderDisplay">
+            <param id="dc"/>
+            <param id="date"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="font"/>
+            <param id="color"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="drawIcon" parent="PhoneConnected">
@@ -310,37 +398,10 @@
         <functionEntry accessMode="public" name="getInitialView" parent="WolfPackApp">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onLayout" parent="WolfPackView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="setupReminders" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onShow" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="WolfPackView">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onHide" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onExitSleep" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onEnterSleep" parent="WolfPackView">
-            <documentation/>
-        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Reminder">
             <param id="day"/>
             <param id="hour"/>
             <param id="message"/>
-            <param id="colour"/>
             <param id="hoursBeforeReminder"/>
             <documentation/>
         </functionEntry>
@@ -350,11 +411,10 @@
         </functionEntry>
         <functionEntry accessMode="public" name="drawTime" parent="TimeDisplay">
             <param id="dc"/>
-            <param id="cx"/>
-            <param id="cy"/>
+            <param id="x"/>
+            <param id="y"/>
             <param id="font"/>
             <param id="xPad"/>
-            <param id="yPad"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
