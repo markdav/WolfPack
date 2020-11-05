@@ -36,7 +36,7 @@ class DeviceView extends WatchUi.WatchFace {
         var dateFont=Graphics.FONT_SYSTEM_MEDIUM;
         var dateY=140;
 
-        var reminderFont=Graphics.FONT_SYSTEM_TINY;
+        var reminderFont=Graphics.FONT_SYSTEM_MEDIUM;
         var reminderY=170;   
 		commonLogic.onUpdate(dc, timeSpacing, timeY, timeFont, wolfY, dateFont, dateY, reminderFont, reminderY);        
      }

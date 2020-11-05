@@ -50,7 +50,7 @@ class CommonLogic {
 		DateDisplay.drawDate(dc, date, dateFont, me.cx, dateY);
         
         // draw message on training days
-        me.reminderDisplay.drawReminder(dc, date, me.cx, reminderY, reminderFont, Graphics.COLOR_PINK);
+        me.reminderDisplay.drawReminder(dc, date, me.cx, reminderY, reminderFont, Graphics.COLOR_WHITE);
     }
 
 }
